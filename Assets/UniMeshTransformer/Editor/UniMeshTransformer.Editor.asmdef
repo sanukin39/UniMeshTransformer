@@ -1,0 +1,15 @@
+{
+    "name": "UniMeshTransformer.Editor",
+    "references": [
+        "GUID:1140402349d6745089c63a981393e674"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
