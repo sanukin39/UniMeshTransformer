@@ -16,7 +16,16 @@ Add following url at package manager
 ## Usage
 Select Window->UniMeshTransfer to open editor window
 
+![menu](https://github.com/sanukin39/UniMeshTransformer/blob/master/images/menu.png)
+
 Register the mesh you want to convert and set transform and output params
+
+![menu](https://github.com/sanukin39/UniMeshTransformer/blob/master/images/window.png)
 
 Refresh Preview to check output and Export to save transformed mesh
 
+## License
+[MIT](https://github.com/sanukin39/UniMeshTransformer/blob/master/LICENSE)
+
+## Author
+[sanukin39](https://github.com/sanukin39)
