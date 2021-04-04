@@ -15,7 +15,7 @@ Add following url at package manager
 `git@github.com:sanukin39/UniMeshTransformer.git?path=/Assets/UniMeshTransformer#1.0.1`
 
 ### Unity Package
-Download unitypackage from [release](https://github.com/sanukin39/UniMeshTransformer/releases/tag/1.0.1) page
+Download unitypackage from [release](https://github.com/sanukin39/UniMeshTransformer/releases/tag/1.0.2) page
 
 ## Usage
 Select Window->UniMeshTransfer to open editor window
