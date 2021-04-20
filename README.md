@@ -12,7 +12,7 @@ Left: Original Mesh Right: Transfromed Mesh
 ### Package Manager
 Add following url at package manager
 
-`git@github.com:sanukin39/UniMeshTransformer.git?path=/Assets/UniMeshTransformer#1.0.2`
+`https://github.com/sanukin39/UniMeshTransformer.git?path=/Assets/UniMeshTransformer#1.0.2`
 
 ### Unity Package
 Download unitypackage from [release](https://github.com/sanukin39/UniMeshTransformer/releases/tag/1.0.2) page
